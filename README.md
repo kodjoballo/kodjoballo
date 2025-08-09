@@ -3,8 +3,8 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kodjo-hugues-ballo-141327158/)
-[![Mail](https://img.shields.io/badge/email-hello%40you.com-important?style=flat-square)](mailto:huguesianballor@outlook.fr)
-[![Top Langs](https://img.shields.io/github/languages/top/yourusername?style=flat-square)](https://github.com/kodjoballo)
+[![Mail](https://img.shields.io/badge/email-huguesianballor@outlook.fr-important?style=flat-square)](mailto:huguesianballor@outlook.fr)
+[![Top Langs](https://img.shields.io/github/languages/top/kodjoballo?style=flat-square)](https://github.com/kodjoballo)
 
 ---
 
@@ -118,9 +118,15 @@ New-ADUser -Name "Jane Doe" -GivenName "Jane" -Surname "Doe" `
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kodjo-hugues-ballo-141327158/)
-[![Email](https://img.shields.io/badge/Email-hello%40you.com-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:huguesianballor@outlook.fr)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/kodjoballo)
+
+💬 Want to collaborate?
+🔗 Connect on LinkedIn: https://www.linkedin.com/in/kodjo-hugues-ballo-141327158/
+
+✉️ Email: huguesianballor@outlook.fr
+
+🧩 Open to freelance / contract roles focused on: AD automation, Azure migrations, SRE tooling, or data ops.
+
+---
 
 
 
