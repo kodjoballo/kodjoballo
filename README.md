@@ -61,29 +61,31 @@ Some junior knowledges in HTLM5/CSS3, c and c++
 
 ## ⭐ Featured projects
 
-### PowerShell & AD
+### [Hybrid environnement of Active directory On premise synced on Cloud with ADConnect](https://github.com/kodjoballo/ActiveDirectory_HybridEnv/blob/main/README.md)
 - **AD Bulk User Creator** — bulk-create users, set policies, join machines (PowerShell).  
   `github.com/yourusername/AD-bulk-create`  
 
 - **Failed-RDP-to-Geo** — parse Windows EventLog failed RDP attempts and enrich with GeoIP for alerting.  
   `github.com/yourusername/failed-rdp-geodata`
 
-### Azure & Automation
+### Python projects
 - **Azure Landing Templates** — reusable Bicep/Terraform for standard subscriptions and network setup.  
   `github.com/yourusername/azure-landing-zone`
 
 - **O365 Automation** — automate license assignments, mailbox auditing, Teams provisioning via Graph API + PowerShell.  
   `github.com/yourusername/o365-automation`
 
-### Python & Data
-- **Server Inventory ETL** — ingest CMDB exports, normalize, and expose as analytics-ready tables.  
+### SQL databases project upcoming...
+<!-- - **Server Inventory ETL** — ingest CMDB exports, normalize, and expose as analytics-ready tables.  
   `github.com/yourusername/server-inventory-etl`
 
 - **SQL Troubleshooter** — scripts & notebooks to analyze slow queries and index usage.  
   `github.com/yourusername/sql-troubleshooter`
 
----
+  /-->
 
+---
+<!--
 ## 📦 Examples of quick snippets
 **PowerShell — create an AD user**
 <p>
@@ -92,6 +94,7 @@ New-ADUser -Name "Jane Doe" -GivenName "Jane" -Surname "Doe" `
  -SamAccountName "jdoe" -UserPrincipalName "jdoe@domain.local" `
  -Path "OU=Employees,DC=domain,DC=local" -AccountPassword (ConvertTo-SecureString "P@ssw0rd!" -AsPlainText -Force) `
  -Enabled $true
+ /-->
 
 </p>
 ---
