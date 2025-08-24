@@ -69,20 +69,50 @@ Some junior knowledges in HTLM5/CSS3, c and c++
   `github.com/yourusername/failed-rdp-geodata`
 
 ### Python projects
-- **Azure Landing Templates** — reusable Bicep/Terraform for standard subscriptions and network setup.  
-  `github.com/yourusername/azure-landing-zone`
+# 🐍 Python Mini Projects
 
-- **O365 Automation** — automate license assignments, mailbox auditing, Teams provisioning via Graph API + PowerShell.  
-  `github.com/yourusername/o365-automation`
+This repository contains 20 Python mini projects I built to practice different concepts — from simple scripts to fun games using libraries like **pygame**, **tkinter**, and **requests**.
+
+The projects range from beginner-friendly (Madlibs, Rock-Paper-Scissors) to intermediate (Maze Solver, Slot Machine, Aim Trainer). Each project has its own folder with source code, instructions, and screenshots of the output.
+
+---
+
+## 📂 Project List
+
+1. [Advanced Python Scripting]()
+2. [Adventure Game]()
+3. [Alarm Clock]()
+4. [Auto Folder Backup]()
+5. [Currency Converter (API-based)]()
+6. [Madlibs]()
+7. [Mastermind Game]()
+8. [Maze Solver]()
+9. [Number Guess Quiz]()
+10. [Pig Game]()
+11. [Password Manager]()
+12. [Python Aim Trainer]()
+13. [Quick Quiz Game]()
+14. [Rock Paper Scissors]()
+15. [Simple Password Generator]()
+16. [Slot Machine Game]()
+17. [Turtle Racing Game]()
+18. [Typing Test]()
+19. [YouTube Downloader]()
+
+---
+
+
+
+
 
 ### SQL databases project upcoming...
-<!-- - **Server Inventory ETL** — ingest CMDB exports, normalize, and expose as analytics-ready tables.  
+ - **Server Inventory ETL** — ingest CMDB exports, normalize, and expose as analytics-ready tables.  
   `github.com/yourusername/server-inventory-etl`
 
 - **SQL Troubleshooter** — scripts & notebooks to analyze slow queries and index usage.  
   `github.com/yourusername/sql-troubleshooter`
 
-  /-->
+  
 
 ---
 <!--
