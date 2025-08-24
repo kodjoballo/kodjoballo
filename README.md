@@ -81,7 +81,7 @@ The projects range from beginner-friendly (Madlibs, Rock-Paper-Scissors) to inte
 
 1. [Advanced Python Scripting](https://github.com/kodjoballo/Advanced_Python_Scripting/blob/main/aps_readme.md)
 2. [Adventure Game](https://github.com/kodjoballo/Adventure_game/blob/main/README.md)
-3. [Alarm Clock]()
+3. [Alarm Clock](https://github.com/kodjoballo/alarm_clock/blob/main/README.md)
 4. [Auto Folder Backup]()
 5. [Currency Converter (API-based)]()
 6. [Madlibs]()
