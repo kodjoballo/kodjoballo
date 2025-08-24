@@ -79,7 +79,7 @@ The projects range from beginner-friendly (Madlibs, Rock-Paper-Scissors) to inte
 
 ## 📂 Project List
 
-1. [Advanced Python Scripting]()
+1. [Advanced Python Scripting](https://github.com/kodjoballo/Advanced_Python_Scripting/blob/main/aps_readme.md)
 2. [Adventure Game]()
 3. [Alarm Clock]()
 4. [Auto Folder Backup]()
