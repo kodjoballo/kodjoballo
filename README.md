@@ -89,7 +89,7 @@ The projects range from beginner-friendly (Madlibs, Rock-Paper-Scissors) to inte
 8. [Maze Solver](https://github.com/kodjoballo/Maze_solver/blob/main/README.md)
 9. [Number Guess Quiz](https://github.com/kodjoballo/NumberGuessingGame/blob/main/README.md)
 10. [Pig Game](https://github.com/kodjoballo/pig_game/blob/main/README.md)
-11. [Tetris]()
+11. [Tetris](https://github.com/kodjoballo/Tetris/blob/main/README.md)
 12. [Python Aim Trainer](https://github.com/kodjoballo/python_aim_trainer/blob/main/README.md)
 13. [Quick Quiz Game](https://github.com/kodjoballo/Quick_quizz_game/blob/main/README.md)
 14. [Rock Paper Scissors](https://github.com/kodjoballo/Rock_paper_scissors/blob/main/README.md)
@@ -98,7 +98,8 @@ The projects range from beginner-friendly (Madlibs, Rock-Paper-Scissors) to inte
 17. [Turtle Racing Game](https://github.com/kodjoballo/Turtle_racing/blob/main/README.md)
 18. [Typing Test](https://github.com/kodjoballo/Typing_test_program/blob/main/README.md)
 19. [YouTube Downloader](https://github.com/kodjoballo/youtube_downloader/blob/main/README.md)
-20. 11. [Weather API app]()
+20. [Weather API app]()
+21. [Space Invader](https://github.com/kodjoballo/Space_invador/blob/main/README.md)
 
 ---
 
