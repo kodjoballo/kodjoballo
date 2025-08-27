@@ -98,7 +98,7 @@ The projects range from beginner-friendly (Madlibs, Rock-Paper-Scissors) to inte
 17. [Turtle Racing Game](https://github.com/kodjoballo/Turtle_racing/blob/main/README.md)
 18. [Typing Test](https://github.com/kodjoballo/Typing_test_program/blob/main/README.md)
 19. [YouTube Downloader](https://github.com/kodjoballo/youtube_downloader/blob/main/README.md)
-20. [Weather API app]()
+20. [Weather API app](https://github.com/kodjoballo/weather_api_app/blob/main/README.md)
 21. [Space Invader](https://github.com/kodjoballo/Space_invador/blob/main/README.md)
 
 ---
