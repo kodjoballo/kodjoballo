@@ -63,10 +63,10 @@ Some junior knowledges in HTLM5/CSS3, c and c++
 
 ### [Hybrid environnement of Active directory On premise synced on Cloud with ADConnect](https://github.com/kodjoballo/ActiveDirectory_HybridEnv/blob/main/README.md)
 - **AD Bulk User Creator** — bulk-create users, set policies, join machines (PowerShell).  
-  `github.com/yourusername/AD-bulk-create`  
+  <!--`github.com/yourusername/AD-bulk-create`  -->
 
 - **Failed-RDP-to-Geo** — parse Windows EventLog failed RDP attempts and enrich with GeoIP for alerting.  
-  `github.com/yourusername/failed-rdp-geodata`
+<!--  `github.com/yourusername/failed-rdp-geodata`-->
 
 ### Python projects
 # 🐍 Python Mini Projects
@@ -109,10 +109,10 @@ The projects range from beginner-friendly (Madlibs, Rock-Paper-Scissors) to inte
 
 ### SQL databases project upcoming...
  - **Server Inventory ETL** — ingest CMDB exports, normalize, and expose as analytics-ready tables.  
-  `github.com/yourusername/server-inventory-etl`
+  <!--`github.com/yourusername/server-inventory-etl`-->
 
 - **SQL Troubleshooter** — scripts & notebooks to analyze slow queries and index usage.  
-  `github.com/yourusername/sql-troubleshooter`
+ <!-- `github.com/yourusername/sql-troubleshooter` -->
 
   
 
