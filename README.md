@@ -1,173 +1,60 @@
-# Hi — I'm **Kodjo Hugues Ballo** 👋  
-**Systems / Cloud Engineer · AD / Azure / O365 · Python & SQL · Data Analyst**
+# Hi — I'm **Kodjo Hugues Ballo** 👋
 
+**IT Systems & Automation Engineer · Active Directory / Azure / M365 · Python · n8n Automation · AI Evaluation · Bilingual FR/EN**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kodjo-hugues-ballo-141327158/)
-[![Mail](https://img.shields.io/badge/email-huguesianballor@outlook.fr-important?style=flat-square)](mailto:huguesianballor@outlook.fr)
+[![Email](https://img.shields.io/badge/email-huguesianballor@outlook.fr-important?style=flat-square)](mailto:huguesianballor@outlook.fr)
 [![Top Langs](https://img.shields.io/github/languages/top/kodjoballo?style=flat-square)](https://github.com/kodjoballo)
 
 ---
 
-## 🚀 About me
-I’m an IT engineer focused on hybrid Windows/Linux systems, Active Directory automation, Azure & O365 platform engineering, and data-driven solutions using Python and SQL. I automate operational work, build monitoring & logging pipelines, and turn large datasets into actionable insights.
+## 👨‍💻 About me
 
-## ⚡☃️Areas of competences
-Active Directory domains services, Group policy deployment, Certificates services, AD replication maintenance, network monitor, Wireshark, process monitor, windows performance analyzer, profile ETL, logs analysis. DNS administration, AD Database expert.
-Azure Identity and Governance Management
-Storage solutions Computer resource management
-Office 365 and Azure administration, fundamentals and Security
+I'm an IT and systems engineer with 6+ years across technical support, Active Directory / Windows Server engineering, and Azure & Microsoft 365 administration. I automate repetitive operational work with **Python, PowerShell, and n8n**, build small data/ETL pipelines with SQL and pandas, and work as an **AI trainer evaluating LLM outputs** against structured rubrics. Bilingual in French and English.
 
-Programming in mainly Python and proficiency in SQL Design, Security and Queries, hence data analyst
-Some junior knowledges in HTLM5/CSS3, c and c++ 
-
-
-- 🔧 **Specialties:** Windows Admin | Linux Sysadmin | Active Directory | Azure (IaaS/PaaS) | O365 automation  
-- 🐍 **Programming:** Python (automation, scripting), PowerShell, Bash, SQL  
-- 📊 **Data:** ETL, cleaning, SQL tuning, Pandas, basic visualization & reporting  
-- 🔐 **Interests:** Security hardening, telemetry, observability, incident automation
-
----
-
-## 🔭 What I’m working on
-- Automating AD user provisioning + lifecycle with PowerShell and Azure AD Connect  
-- Azure landing zone templates and CI/CD for infra (Terraform/Bicep / GitHub Actions)  
-- ETL pipelines: SQL -> Python -> BI dashboards (Power BI / Excel)  
-- A cross-platform admin toolkit (PowerShell + Python) for incident triage
+🧩 **Open to freelance / contract work:** workflow automation (n8n), AD & Azure administration, IT support tooling, AI evaluation, and data ops.
 
 ---
 
 ## 🧰 Core Skills
 
-**Systems & Cloud**
-- Active Directory, Group Policy, DNS, DHCP, Windows Server
-- Azure (VMs, Managed Identities, Azure AD, Storage, Functions)
-- Microsoft 365: Exchange Online, Teams, Intune automation
+**Systems & Cloud** — Active Directory, Group Policy, DNS, Windows Server, Hyper-V, Azure (VMs, Azure AD, Storage), Microsoft 365 (Exchange Online, Intune)
 
-**Scripting & DevOps**
-- PowerShell (modules, remoting, DSC), Bash, Python automation
-<!-- - Infrastructure-as-Code: Terraform / Bicep
-- CI/CD: GitHub Actions, Azure DevOps -->
+**Automation & Scripting** — Python, PowerShell, Bash, **n8n** (REST/JSON, webhooks, API integrations)
 
-**Data & Databases**
-- SQL Server / MySQL: queries, performance tuning, ETL
-- Python: pandas, sqlalchemy, Jupyter notebooks
-- Reporting: Power BI basics, CSV/Excel automation
+**Data & Databases** — SQL / MySQL (queries, tuning, ETL), pandas, CSV/Excel reporting, basic Power BI
 
-**Monitoring & Security**
-- Windows Event logs, SIEM forwarding, basic telemetry
-- Hardening, patching automation, least-privilege design
+**AI & Evaluation** — LLM output evaluation, RLHF, rubric-based assessment, hallucination detection, Python code review
 
 ---
 
-## ⭐ Featured projects
+## ⭐ Featured Projects
 
-### [Hybrid environnement of Active directory On premise synced on Cloud with ADConnect](https://github.com/kodjoballo/ActiveDirectory_HybridEnv/blob/main/README.md)
-- **AD Bulk User Creator** — bulk-create users, set policies, join machines (PowerShell).  
-  <!--`github.com/yourusername/AD-bulk-create`  -->
+### 🔁 Automation (n8n)
+- **[Automated Email Triage System](https://github.com/kodjoballo/n8n-email-triage-automation)** — monitors Gmail for urgent mail, auto-creates Trello cards, and sends real-time Slack alerts. *(n8n · Gmail API · Trello API · Slack API)*
+- **[AI-Powered Email Responder](https://github.com/kodjoballo/n8n-ai-email-responder)** — drafts professional AI replies in Gmail using the Groq LLM API (Llama 3.3 70B). *(n8n · Gmail API · Groq LLM · REST API)*
+- **[Lead Capture CRM Pipeline](https://github.com/kodjoballo/n8n-lead-capture-crm-automation)** — moves leads from Google Forms into HubSpot CRM and sends personalized welcome emails automatically. *(n8n · HubSpot API · Google Forms · Gmail API)*
 
-- **Failed-RDP-to-Geo** — parse Windows EventLog failed RDP attempts and enrich with GeoIP for alerting.  
-<!--  `github.com/yourusername/failed-rdp-geodata`-->
+### 🖥️ Systems / Active Directory
+- **[Active Directory Hybrid Environment](https://github.com/kodjoballo/ActiveDirectory_HybridEnv)** — on-prem AD with tiered deployment, synced to the cloud via Azure AD Connect. Includes a PowerShell **AD Bulk User Creator** and **Failed-RDP-to-Geo** (parses failed RDP attempts from the Windows Event Log and enriches with GeoIP for alerting).
+- **[Tech Support Toolkit](https://github.com/kodjoballo/kodjoballo)** — PowerShell, Python, and Bash scripts for system administration, API debugging, and data analysis.
 
-### Python projects
-# 🐍 Python Mini Projects
-
-This repository contains 20 Python mini projects I built to practice different concepts — from simple scripts to fun games using libraries like **pygame**, **tkinter**, and **requests**.
-
-The projects range from beginner-friendly (Madlibs, Rock-Paper-Scissors) to intermediate (Maze Solver, Slot Machine, Aim Trainer). Each project has its own folder with source code, instructions, and screenshots of the output.
+### 🐍 Python
+- **[Python Mini-Projects (20+)](https://github.com/kodjoballo/Advanced_Python_Scripting)** — a practice collection spanning scripting, APIs, and small games (pygame, tkinter, requests).
 
 ---
 
-## 📂 Project List
+## 📊 GitHub Stats
 
-1. [Advanced Python Scripting](https://github.com/kodjoballo/Advanced_Python_Scripting/blob/main/aps_readme.md)
-2. [Adventure Game](https://github.com/kodjoballo/Adventure_game/blob/main/README.md)
-3. [Alarm Clock](https://github.com/kodjoballo/alarm_clock/blob/main/README.md)
-4. [Auto Folder Backup](https://github.com/kodjoballo/auto_folder_backup/blob/main/README.md)
-5. [Currency Converter (API-based)]()
-6. [Madlibs](https://github.com/kodjoballo/Madlibs/blob/main/README.md)
-7. [Mastermind Game](https://github.com/kodjoballo/mastermind/blob/main/README.md)
-8. [Maze Solver](https://github.com/kodjoballo/Maze_solver/blob/main/README.md)
-9. [Number Guess Quiz](https://github.com/kodjoballo/NumberGuessingGame/blob/main/README.md)
-10. [Pig Game](https://github.com/kodjoballo/pig_game/blob/main/README.md)
-11. [Tetris](https://github.com/kodjoballo/Tetris/blob/main/README.md)
-12. [Python Aim Trainer](https://github.com/kodjoballo/python_aim_trainer/blob/main/README.md)
-13. [Quick Quiz Game](https://github.com/kodjoballo/Quick_quizz_game/blob/main/README.md)
-14. [Rock Paper Scissors](https://github.com/kodjoballo/Rock_paper_scissors/blob/main/README.md)
-15. [Simple Password Generator](https://github.com/kodjoballo/password_generator/blob/main/README.md)
-16. [Slot Machine Game](https://github.com/kodjoballo/Slot_machine/blob/main/README.md)
-17. [Turtle Racing Game](https://github.com/kodjoballo/Turtle_racing/blob/main/README.md)
-18. [Typing Test](https://github.com/kodjoballo/Typing_test_program/blob/main/README.md)
-19. [YouTube Downloader](https://github.com/kodjoballo/youtube_downloader/blob/main/README.md)
-20. [Weather API app](https://github.com/kodjoballo/weather_api_app/blob/main/README.md)
-21. [Space Invader](https://github.com/kodjoballo/Space_invador/blob/main/README.md)
-
----
-
-
-
-
-
-### SQL databases project upcoming...
- - **Server Inventory ETL** — ingest CMDB exports, normalize, and expose as analytics-ready tables.  
-  <!--`github.com/yourusername/server-inventory-etl`-->
-
-- **SQL Troubleshooter** — scripts & notebooks to analyze slow queries and index usage.  
- <!-- `github.com/yourusername/sql-troubleshooter` -->
-
-  
-
----
-<!--
-## 📦 Examples of quick snippets
-**PowerShell — create an AD user**
-<p>
-```powershell
-New-ADUser -Name "Jane Doe" -GivenName "Jane" -Surname "Doe" `
- -SamAccountName "jdoe" -UserPrincipalName "jdoe@domain.local" `
- -Path "OU=Employees,DC=domain,DC=local" -AccountPassword (ConvertTo-SecureString "P@ssw0rd!" -AsPlainText -Force) `
- -Enabled $true
- /-->
-
-</p>
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="165">
-</p>
-
----
-
-## 🏆 GitHub Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
+![Kodjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodjoballo&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kodjoballo&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kodjoballo&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect with Me
 
+💬 Open to collaboration on automation, systems, and AI-evaluation projects.
 
-💬 Want to collaborate?
-🔗 Connect on LinkedIn: https://www.linkedin.com/in/kodjo-hugues-ballo-141327158/
-
-✉️ Email: huguesianballor@outlook.fr
-
-🧩 Open to freelance / contract roles focused on: AD automation, Azure migrations, SRE tooling, or data ops.
-
----
-
-
-
-
-
-
-
-
-
+🔗 **LinkedIn:** https://www.linkedin.com/in/kodjo-hugues-ballo-141327158/
+✉️ **Email:** huguesianballor@outlook.fr
