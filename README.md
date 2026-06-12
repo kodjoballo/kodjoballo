@@ -46,8 +46,8 @@ I'm an IT and systems engineer with 6+ years across technical support, Active Di
 
 ## 📊 GitHub Stats
 
-![Kodjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodjoballo&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kodjoballo&layout=compact&theme=tokyonight)
+![Kodjo's GitHub stats](https://github-readme-stats.vercel.app/api?kodjoballo=kodjoballo&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?kodjoballo=kodjoballo&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kodjoballo&theme=tokyonight)
 
 ---
