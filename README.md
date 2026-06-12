@@ -1,6 +1,7 @@
 # Hi — I'm **Kodjo Hugues Ballo** 👋
 
-**IT Systems & Automation Engineer · Active Directory / Azure / M365 · Python · n8n Automation · AI Evaluation · Bilingual FR/EN**
+**IT Support & AI Automation Specialist | n8n | LLM Integration | Bilingual FR/EN
+ · Bilingual FR/EN**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kodjo-hugues-ballo-141327158/)
 [![Email](https://img.shields.io/badge/email-huguesianballor@outlook.fr-important?style=flat-square)](mailto:huguesianballor@outlook.fr)
