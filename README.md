@@ -41,7 +41,7 @@ I'm an IT and systems engineer with 6+ years across technical support, Active Di
 - **[Tech Support Toolkit](https://github.com/kodjoballo/kodjoballo)** — PowerShell, Python, and Bash scripts for system administration, API debugging, and data analysis.
 
 ### 🐍 Python
-- **[Python Mini-Projects (20+)](https://github.com/kodjoballo/Advanced_Python_Scripting)** — a practice collection spanning scripting, APIs, and small games (pygame, tkinter, requests).
+- **[Python Mini-Projects (20+)](https://github.com/kodjoballo/python-mini-projects)** — a practice collection spanning scripting, APIs, and small games (pygame, tkinter, requests).
 
 ---
 
